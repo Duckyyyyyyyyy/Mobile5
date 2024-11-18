@@ -1,0 +1,1 @@
+D:\Mobile5\Lab5\android\app\build\intermediates\cxx\Debug\4541p6eh\obj\arm64-v8a
